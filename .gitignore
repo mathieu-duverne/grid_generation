@@ -1,5 +1,5 @@
 # Composer dependencies
-/vendor/
+/vendor
 
 # Composer lock file
 composer.lock
