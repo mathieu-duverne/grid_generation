@@ -1,0 +1,50 @@
+# Composer dependencies
+/vendor/
+
+# Composer lock file
+composer.lock
+
+# PHP Storm IDE files
+.idea/
+
+# VS Code files
+.vscode/
+
+# Environment files
+.env
+
+# Cache and logs
+/cache/
+/logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# PDF output files (if you don't want to track generated PDFs)
+*.pdf
+
+# PHP error logs
+php_errors.log
+
+# Any local configuration files
+config.local.php
+
+# Node modules (if you decide to add any JavaScript build tools later)
+/node_modules/
+
+# Any build output directory (if you add one later)
+/dist/
+/build/
